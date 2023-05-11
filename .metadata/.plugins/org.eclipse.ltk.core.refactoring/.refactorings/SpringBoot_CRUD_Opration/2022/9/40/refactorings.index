@@ -1,0 +1,6 @@
+1664428953423	Rename package 'com.cjc.webapp.crud.Controller'
+1664430849277	Rename package 'com.cjc.webapp.crud.controller'
+1664430917166	Rename package 'com.cjc.webapp.crud.model'
+1664430931688	Rename package 'com.cjc.webapp.crud.repository'
+1664430947448	Rename package 'com.cjc.webapp.crud.service'
+1664430965564	Rename package 'com.cjc.webapp.crud.serviceImpl'
